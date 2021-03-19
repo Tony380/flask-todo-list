@@ -1,1 +1,0 @@
-Simple Boostraped todo-list in flask 
