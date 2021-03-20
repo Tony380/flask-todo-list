@@ -1,1 +1,1 @@
-Simple Boostraped todo-list in flask 
+Simple Flask Todo-list with Bootstrap 
